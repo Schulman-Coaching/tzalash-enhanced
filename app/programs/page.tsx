@@ -3,7 +3,7 @@ import {
   BookOpen,
   Users,
   Calendar,
-  HandHeart,
+  HeartHandshake,
   Shield,
   Sparkles,
   Heart,
@@ -60,7 +60,7 @@ const programs = [
   },
   {
     id: 'wives',
-    icon: HandHeart,
+    icon: HeartHandshake,
     title: 'Support for Soldiers\' Wives',
     subtitle: 'Honoring the Women Behind Our Soldiers',
     description: 'We recognize that behind every soldier stands a devoted wife managing home and family. Our support programs provide emotional backing, community connections, and practical assistance for the dedicated women whose sacrifices make their husbands\' service possible.',

@@ -10,7 +10,7 @@ import {
   Play,
   Quote,
   CheckCircle,
-  HandHeart,
+  HeartHandshake,
   Sparkles
 } from 'lucide-react';
 
@@ -41,7 +41,7 @@ const programs = [
     link: '/programs#shabbat',
   },
   {
-    icon: HandHeart,
+    icon: HeartHandshake,
     title: "Support for Soldiers' Wives",
     description: 'Emotional support and assistance for the dedicated women behind our soldiers.',
     link: '/programs#wives',
